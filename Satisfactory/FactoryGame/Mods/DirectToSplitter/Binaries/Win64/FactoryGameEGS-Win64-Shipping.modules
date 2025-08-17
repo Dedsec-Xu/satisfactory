@@ -1,0 +1,7 @@
+{
+	"BuildId": "SML",
+	"Modules": 
+	{
+		"DirectToSplitter": "FactoryGameEGS-DirectToSplitter-Win64-Shipping.dll"
+	}
+}

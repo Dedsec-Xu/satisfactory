@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "MagicMachine",
+	"Description": "",
+	"Category": "Modding",
+	"CreatedBy": "DellAquila",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Version": 1,
+	"VersionName": "1.0.43",
+	"SemVersion": "1.0.43",
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.0"
+		}
+	],
+	"GameVersion": ">=410840"
+}

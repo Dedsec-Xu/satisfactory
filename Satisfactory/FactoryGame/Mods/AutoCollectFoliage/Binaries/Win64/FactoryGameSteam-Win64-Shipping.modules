@@ -1,0 +1,7 @@
+{
+	"BuildId": "SML",
+	"Modules": 
+	{
+		"AutoCollectFoliage": "FactoryGameSteam-AutoCollectFoliage-Win64-Shipping.dll"
+	}
+}

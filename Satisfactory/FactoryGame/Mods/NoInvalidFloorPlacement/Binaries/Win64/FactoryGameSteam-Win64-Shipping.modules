@@ -1,0 +1,7 @@
+{
+	"BuildId": "SML",
+	"Modules": 
+	{
+		"NoInvalidFloorPlacement": "FactoryGameSteam-NoInvalidFloorPlacement-Win64-Shipping.dll"
+	}
+}

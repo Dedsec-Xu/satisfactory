@@ -1,0 +1,7 @@
+{
+	"BuildId": "SML",
+	"Modules": 
+	{
+		"ContentLib": "FactoryGameEGS-ContentLib-Win64-Shipping.dll"
+	}
+}

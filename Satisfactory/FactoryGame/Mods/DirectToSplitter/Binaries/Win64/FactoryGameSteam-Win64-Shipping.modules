@@ -1,0 +1,7 @@
+{
+	"BuildId": "SML",
+	"Modules": 
+	{
+		"DirectToSplitter": "FactoryGameSteam-DirectToSplitter-Win64-Shipping.dll"
+	}
+}

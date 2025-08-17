@@ -1,0 +1,7 @@
+{
+	"BuildId": "SML",
+	"Modules": 
+	{
+		"SML": "FactoryGameSteam-SML-Win64-Shipping.dll"
+	}
+}

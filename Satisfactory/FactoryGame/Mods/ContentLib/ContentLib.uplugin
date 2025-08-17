@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.8.0",
+	"SemVersion": "1.8.0",
+	"FriendlyName": "ContentLib",
+	"Description": "Easily create or modify Items, Recipes, and more via JSON for any machine and any mod!",
+	"Category": "Modding",
+	"CreatedBy": "Nog, Robb",
+	"CreatedByURL": "https://ficsit.app/mod/ContentLib",
+	"DocsURL": "https://docs.ficsit.app/contentlib/latest/index.html",
+	"MarketplaceURL": "",
+	"SupportURL": "http://discord.gg/zqp6U7Y7Nu",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ContentLib",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.3"
+		}
+	],
+	"GameVersion": ">=416835"
+}
