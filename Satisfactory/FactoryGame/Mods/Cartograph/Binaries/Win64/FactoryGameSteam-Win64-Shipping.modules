@@ -1,0 +1,8 @@
+{
+	"BuildId": "SML",
+	"Modules": 
+	{
+		"ActualMap": "FactoryGameSteam-ActualMap-Win64-Shipping.dll",
+		"Cartograph": "FactoryGameSteam-Cartograph-Win64-Shipping.dll"
+	}
+}

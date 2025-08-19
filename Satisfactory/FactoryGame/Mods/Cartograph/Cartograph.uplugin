@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.0",
+	"FriendlyName": "Cartograph",
+	"Description": "Display your buildings on the map!",
+	"Category": "Modding",
+	"CreatedBy": "yeshjho",
+	"CreatedByURL": "https://github.com/yeshjho/SatisfactoryMod/tree/Cartograph",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.com/users/353886187879923712",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Cartograph",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.1"
+		}
+	],
+	"SemVersion": "1.1.0",
+	"GameVersion": ">=415558",
+	"LocalizationTargets": [
+		{
+			"Name": "Cartograph",
+			"LoadingPolicy": "Always"
+		}
+	]
+}

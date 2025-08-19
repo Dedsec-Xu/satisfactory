@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.4.0",
+	"SemVersion": "2.4.0",
+	"FriendlyName": "Mod Update Notifier",
+	"Description": "The Mod Update Notifier (MUN) notifies you in-game when an installed mod needs an update.",
+	"Category": "Modding",
+	"CreatedBy": "SpaceGameDev",
+	"CreatedByURL": "https://spacegamedev.com",
+	"DocsURL": "https://docs.spacegamedev.com/modding/mod-update-notifier/",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/SpaceGameDev568/ModUpdateNotifier/issues/new/choose",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ModUpdateNotifier",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.0"
+		}
+	],
+	"GameVersion": ">=410840",
+	"RequiredOnRemote": false
+}

@@ -1,0 +1,8 @@
+{
+	"BuildId": "SML",
+	"Modules": 
+	{
+		"ActualMap": "FactoryGameEGS-ActualMap-Win64-Shipping.dll",
+		"Cartograph": "FactoryGameEGS-Cartograph-Win64-Shipping.dll"
+	}
+}
