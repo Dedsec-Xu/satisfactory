@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.2",
+	"SemVersion": "1.0.2",
+	"FriendlyName": "Ficsmas Every Day",
+	"Description": "♪I wish it could be Ficsmas every dayyyy♪",
+	"Category": "Modding",
+	"CreatedBy": "AngryBeaver",
+	"CreatedByURL": "https://github.com/DavidHGillen/Satisfactory-FicsmasEveryday",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"GameVersion": ">=416835",
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.1"
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "FicsmasEveryday",
+			"LoadingPolicy": "Always"
+		}
+	]
+}
